@@ -1,0 +1,46 @@
+url: https://inheritio.github.io
+baseurl: ""
+
+# Site settings
+title: INHERIT
+email: skyhitblog@icloud.com
+description: "We inherit the quality and expertise which will help launch your dream project to the world."
+
+
+# Team names, titles and social links
+people:
+- name: Anjan Jyoti Nath
+  pic: 1
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: http://twitter.com/kaludios
+    - title: facebook
+      url: http://facebook.com/kaludios101
+    - title: github
+      url: http://github.com/anjanjr
+
+- name: Abhijit Matak
+  pic: 2
+  position: Lead Developer & Designer
+  social:
+    - title: twitter
+      url: http://twitter.com/skyhitblog
+    - title: facebook
+      url: http://facebook.com/avimatak
+    - title: github
+      url: http://github.com/skyhitblog
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/skyhitblog
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Airport Road, Azara
+  - line: Guwahati, India
+
+# Build settings
+markdown: kramdown
+permalink: pretty
