@@ -1,0 +1,15 @@
+---
+title: Non Profit
+subtitle: Website Design
+layout: default
+modal-id: 2
+date: 2017-07-07
+img: prerona.jpg
+thumbnail: prerona.jpg
+alt: image-alt
+project-date: June 2017
+client: Dibrugarh, India
+category: Web Development
+description: Prerona Pratibandhi is a non-profit working in order to give the disabled children a better life. They are doing their part for the society. 
+
+---

@@ -1,0 +1,15 @@
+---
+title: Machinery Startup
+subtitle: Website Design
+layout: default
+modal-id: 1
+date: 2017-07-07
+img: kdc.jpg
+thumbnail: kdc.jpg
+alt: image-alt
+project-date: February 2017
+client: Guwahati, India
+category: Web Development
+description: KDC is a machinery startup which operates in the North East and deals in heavy duty machines used for manufacturing of various kinds of things, from food to packaging materials.
+
+---
