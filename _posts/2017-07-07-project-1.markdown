@@ -1,0 +1,14 @@
+---
+title: Luxury Exotics
+subtitle: Web Design
+layout: default
+modal-id: 1
+date: 2017-07-07
+img: LE.jpg
+thumbnail: LE.jpg
+alt: image-alt
+project-date: January 2017
+client: USA
+category: UI/UX
+description: Luxury Exotics is a company that provides luxury cars on rent. They are one of the leading car rentals in the US.
+---
