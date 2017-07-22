@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2017-07-07
 img: prerona.jpg
-thumbnail: preronacopy.jpg
+thumbnail: prerona.jpg
 alt: image-alt
 project-date: June 2017
 client: Dibrugarh, India

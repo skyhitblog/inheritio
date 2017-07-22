@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2017-07-07
 img: LE.jpg
-thumbnail: LEcopy.jpg
+thumbnail: LE.jpg
 alt: image-alt
 project-date: January 2017
 client: USA
