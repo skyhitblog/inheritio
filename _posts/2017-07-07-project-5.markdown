@@ -1,0 +1,15 @@
+---
+title: Technical Festival
+subtitle: Event Branding
+layout: default
+modal-id: 5
+date: 2017-07-06
+img: praj.jpg
+thumbnail: praj.jpg
+alt: image-alt
+project-date: September 2016
+client: Guwahati, India
+category: Web Development & Branding
+description: Prajyukttam is the annual technical festival of Assam Don Bosco University.
+
+---
