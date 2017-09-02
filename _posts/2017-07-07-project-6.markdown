@@ -1,0 +1,14 @@
+---
+title: Northeast Creatives
+subtitle: Co-created by Inherit I/O.
+layout: default
+modal-id: 5
+date: 2017-07-06
+img: nec.jpg
+thumbnail: nec.jpg
+alt: image-alt
+project-date: September 2016
+client: Guwahati, India
+category: Web Development & Branding
+description: Northeast Creatives is a community for the people of Northeast. It is a platform to learn together and collaborate on creative projects.
+---
