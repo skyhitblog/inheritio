@@ -2,7 +2,7 @@
 title: Technical Festival
 subtitle: Event Branding
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2017-07-06
 img: praj.jpg
 thumbnail: praj.jpg
